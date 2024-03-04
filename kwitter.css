@@ -1,0 +1,39 @@
+body{
+    background-color: peru;
+}
+h1{
+    font-family: comic sans ms;
+    color: aliceblue;
+}
+button{
+    font-family: fantasy;
+    background-color: maroon;
+    border-style: inherit;
+    color: crimson;
+}
+button:hover{
+    background-color: brown;
+    color: maroon;
+}
+#username{
+    width: 250px;
+    text-align: center;
+}
+input:hover{
+    background-color: cyan;
+    border-style: inset;
+}
+#css{
+    color: blue;
+}
+#css:hover{
+    color: lightblue;
+    cursor: help;
+}
+#css2{
+    color: burlywood;
+}
+#css2:hover{
+    color: beige;
+    cursor: inset;
+}
